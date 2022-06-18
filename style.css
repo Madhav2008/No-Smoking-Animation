@@ -18,6 +18,7 @@ body {
 .container {
     position: absolute;
     display: flex;
-    justify-content: center;align-items: center;
+    justify-content: center;
+    align-items: center;
     transform-style: preserve-3d;
 }
