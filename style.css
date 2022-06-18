@@ -43,7 +43,7 @@ body {
 }
 
 .container .smoke span i::after {
-    content: 'l';
+    content: 'L';
     color: #ccc;
     text-transform: lowercase;
 }
