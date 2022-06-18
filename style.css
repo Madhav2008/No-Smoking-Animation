@@ -69,7 +69,7 @@ body {
         transform: perspective(1000px) rotateX(0deg);
     }
 
-    0% {
+    100% {
         transform: perspective(1000px) rotateX(0deg);
     }
 }
