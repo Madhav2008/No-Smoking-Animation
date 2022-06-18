@@ -50,5 +50,5 @@ body {
 
 .container .smoke span i:last-child:after {
     color: #f00;
-    filter: blur();
+    filter: blur(2px);
 }
