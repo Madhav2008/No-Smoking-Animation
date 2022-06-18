@@ -32,7 +32,7 @@ body {
     font-size: 1.35em;
     font-weight: 900;
     text-transform: uppercase;
-    line-height: 0.76em;
+    line-height: 0.76em;text-shadow: ;
     transform: translate(-50%, -50%);
 }
 
