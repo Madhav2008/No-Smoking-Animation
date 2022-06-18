@@ -46,4 +46,4 @@ body {
     content: 'L';
     color: #ccc;
     text-transform: lowercase;
-}
+}.container .smoke span i:first-child:after
