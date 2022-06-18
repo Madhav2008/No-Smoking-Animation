@@ -17,6 +17,7 @@ body {
 
 .container {
     position: absolute;
-    display: flex;justify-content: center;
+    display: flex;
+    justify-content: center;
     transform-style: preserve-3d;
 }
