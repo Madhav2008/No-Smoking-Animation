@@ -42,7 +42,7 @@ body {
     color: #ec9535;
 }
 
-.container .smoke span i::after {
+.container .smoke span i:first-child:after {
     content: 'L';
     color: #ccc;
     text-transform: lowercase;
