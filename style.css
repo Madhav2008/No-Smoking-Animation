@@ -52,7 +52,7 @@ body {
     color: #f00;
     filter: blur(2px);
     text-shadow: -4px 0 2px #000,
-        8px 0 20px #f00;
+        8px 0 20px #f00,
         8px 0 20px #f00;
         8px 0 20px #f00;
 }
