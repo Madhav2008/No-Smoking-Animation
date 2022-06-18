@@ -36,4 +36,6 @@ body {
     transform: translate(-50%, -50%);
 }
 
-.container .smoke span i {font-style: ;}
+.container .smoke span i {
+    font-style: ;
+}
