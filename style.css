@@ -22,4 +22,4 @@ body {
     align-items: center;
 }
 
-.container .smoke {}
+.container .smoke {transform-style: preserve-3d;}
