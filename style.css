@@ -33,7 +33,7 @@ body {
     font-weight: 900;
     text-transform: uppercase;
     line-height: 0.76em;
-    text-shadow: ;
+    text-shadow: 0;
     transform: translate(-50%, -50%);
 }
 
