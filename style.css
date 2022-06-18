@@ -26,4 +26,6 @@ body {
     transform-style: preserve-3d;
 }
 
-.container .smoke span {position: absolute;}
+.container .smoke span {
+    position: absolute;
+}
