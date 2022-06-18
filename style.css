@@ -30,6 +30,6 @@ body {
     position: absolute;
     color: #fff;
     font-size: 1.35em;
-    font-weight: 900;
+    font-weight: 900;text-transform: ;
     transform: translate(-50%, -50%);
 }
