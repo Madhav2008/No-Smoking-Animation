@@ -27,5 +27,5 @@ body {
 }
 
 .container .smoke span {
-    position: absolute;
+    position: absolute;color: #fff;
 }
