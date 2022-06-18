@@ -24,7 +24,7 @@ body {
 
 .container .smoke {
     transform-style: preserve-3d;
-    animation: animate 15s linear;
+    animation: animate 15s linear infinite;
 }
 
 .container .smoke span {
