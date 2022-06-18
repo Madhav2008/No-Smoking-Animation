@@ -64,4 +64,6 @@ body {
         24px 0 #999;
 }
 
-@keyframes animate {0%}
+@keyframes animate {
+    0%
+}
