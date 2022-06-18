@@ -43,6 +43,6 @@ body {
 }
 
 .container .smoke span i::after {
-    content: 'l';
+    content: 'm';
     color: #f00;
 }
