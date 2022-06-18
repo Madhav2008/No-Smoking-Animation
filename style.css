@@ -50,5 +50,6 @@ body {
 
 .container .smoke span i:last-child:after {
     color: #f00;
-    filter: blur(2px);text-shadow: ;
+    filter: blur(2px);
+    text-shadow: ;
 }
