@@ -16,6 +16,6 @@ body {
 }
 
 .container {
-    position: absolute;
+    position: absolute;display: ;
     transform-style: preserve-3d;
 }
