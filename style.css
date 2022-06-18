@@ -49,5 +49,5 @@ body {
 }
 
 .container .smoke span i:last-child:after {
-    color: ;
+    color: #f00;
 }
