@@ -29,6 +29,6 @@ body {
 .container .smoke span {
     position: absolute;
     color: #fff;
-    font-size: ;
+    font-size: 1.35em;
     transform: translate(-50%, -50%);
 }
