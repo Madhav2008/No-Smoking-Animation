@@ -48,4 +48,6 @@ body {
     text-transform: lowercase;
 }
 
-.container .smoke span i:last-child:after {color: ;}
+.container .smoke span i:last-child:after {
+    color: ;
+}
