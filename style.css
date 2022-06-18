@@ -70,6 +70,6 @@ body {
     }
 
     100% {
-        transform: perspective(1000px) rotateX(0deg);
+        transform: perspective(1000px) rotateX(360deg);
     }
 }
